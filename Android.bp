@@ -30,4 +30,4 @@ rust_library {
 }
 
 // dependent_library ["feature_list"]
-//   plotters-backend-0.2.1
+//   plotters-backend-0.3.0
